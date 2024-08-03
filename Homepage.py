@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Hompage", page_icon=":wave", layout="wide")
+st.set_page_config(page_title="Homepage", page_icon=":wave", layout="wide")
 st.sidebar.success("Select A Page!")
 
 
